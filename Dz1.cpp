@@ -29,7 +29,7 @@ void ShowMenu()
 	cout << "6-Search Surname" << endl;
 }
 
-bool CheckPhone(char* checkPhone) {
+bool CheckPhone(char* checkPhone ) {
 	int size = 0;
 	while (checkPhone[size] != '\0')
 	{
