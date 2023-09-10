@@ -1,0 +1,8 @@
+Name:  misha 
+Surname:  vol 
+Phone:  0987754777 
+Salary:  456.000000 
+Name:  masha 
+Surname:  ark 
+Phone:  1234567890 
+Salary:  123.000000 
